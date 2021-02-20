@@ -8,5 +8,5 @@ The goal of this analysis is to create an automated pipeline thatkes in new data
 
 ## Resources
 
-[wikipedia-movies](/wikipedia-movies.JSON)
-
+- Data: [wikipedia-movies](/wikipedia-movies.JSON)
+- Software : PostgresSQL , Jupyter Notebook 
